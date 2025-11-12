@@ -6,6 +6,15 @@
 
 GroveケーブルとNeoPixel LEDテープを接続するモジュールです。LEDテープ側の3ピンコネクタのケーブルをはんだ付けして使用します。動作安定化のためのダンピング抵抗つきです。
 
+<img src="https://github.com/akita11/GroveNeoPixel/blob/main/GroveNeoPixel2.jpg" width="320px">
+
+<img src="https://github.com/akita11/GroveNeoPixel/blob/main/GroveNeoPixel2_back.jpg" width="320px">
+
+<img src="https://github.com/akita11/GroveNeoPixel/blob/main/GroveNeoPixel2_conn.jpg" width="320px">
+
+2AポリスイッチのついたGroveNeoPixel2（LED側は2.54mmの3p端子のみ）もあります。
+
+
 ## 使い方
 
 <img src="https://github.com/akita11/GroveNeoPixel/blob/main/GroveNeoPixel_wiring1.jpg" width="320px">
